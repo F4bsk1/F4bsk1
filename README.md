@@ -3,7 +3,7 @@
 I build AI products end to end: voice agents, matching engines, and the backends and
 dashboards around them. Most of what I ship is Python and TypeScript.
 
-## Things I've built
+## Selection of Things I've built
 
 | Project | What it is | Stack |
 |---|---|---|
